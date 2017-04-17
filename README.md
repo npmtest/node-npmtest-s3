@@ -1,7 +1,7 @@
 # test coverage for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmtest-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-s3.svg)](https://travis-ci.org/npmtest/node-npmtest-s3)
 #### high level amazon s3 client. upload and download files and directories
 
-[![NPM](https://nodei.co/npm/s3.png?downloads=true)](https://www.npmjs.com/package/s3)
+[![NPM](https://nodei.co/npm/s3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/s3)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-s3/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-s3/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-s3/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-s3/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-s3/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-s3/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-s3/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-s3/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-s3/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-s3/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-s3%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-s3/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-s3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-s3/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-s3/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-s3%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-s3/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-s3/build/test-report.html](https://npmtest.github.io/node-npmtest-s3/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-s3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-s3/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-s3/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-s3/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-s3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-s3/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-s3/build/screenCapture.npmPackageListing.svg)
 
@@ -78,13 +84,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "superjoe",
-            "email": "superjoe30@gmail.com"
+            "name": "superjoe"
         }
     ],
     "name": "s3",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/andrewrk/node-s3-client.git"
