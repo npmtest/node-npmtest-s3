@@ -1,4 +1,7 @@
-# test coverage for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmtest-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-s3.svg)](https://travis-ci.org/npmtest/node-npmtest-s3)
+# npmtest-s3
+
+#### test coverage for  [s3 (v4.4.0)](https://github.com/andrewrk/node-s3-client)  [![npm package](https://img.shields.io/npm/v/npmtest-s3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-s3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-s3.svg)](https://travis-ci.org/npmtest/node-npmtest-s3)
+
 #### high level amazon s3 client. upload and download files and directories
 
 [![NPM](https://nodei.co/npm/s3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/s3)
